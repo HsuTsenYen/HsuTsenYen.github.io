@@ -28,6 +28,8 @@ My current and recent work focuses on methods for learning and decision making f
 - **Conference Reviewer:** AISTATS 2026 (3 papers), UAI 2026 (6 papers), and NeurIPS 2026 (3 papers).
 
 ## News
+- **10/2026:** I will give a talk at [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/).
+- **09/2026 - 10/2026:** I will be a visiting scholar at [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/).
 - **06/2026:** I will present a poster at [the Advances in Adaptive Experimentation Workshop](https://aae-workshop.github.io/) at UCL.
 - **05/2026:** The paper **Bootstrap Aggregation for Regression Problems via Generalized Least Squares** is accepted by Statistics and Computing.
 - **09/2025:** Joined the Department of Mathematics at Imperial College London as a PhD student.
