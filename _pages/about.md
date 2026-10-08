@@ -1,42 +1,38 @@
 ---
 permalink: /
-title: "HsuTsenYen"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a PhD student in Mathematics at [Imperial College London](https://www.imperial.ac.uk), supervised by [Prof. Kelly Zhang](https://kellywzhang.github.io) and co-supervised by [Prof. Andrew Duncan](https://www.ma.imperial.ac.uk/~aduncan/). My research lies at the intersection of statistics and machine learning, with interests in sequential decision making, Bayesian optimization, and statistical learning.
+I am a recent graduate of [National Taiwan University](https://www.ntu.edu.tw/english/), where I earned a B.A. in Sociology (GPA 4.09/4.3) with specializations in Industrial and Commercial Psychology and Quantitative Research Methods.
 
-Before joining Imperial, I earned an MSc in Applied Statistics from the [University of Michigan, Ann Arbor](https://lsa.umich.edu/stats) and a BSc in Mathematics from [National Tsing Hua University](https://www.math.nthu.edu.tw/index.php). I have also worked with Dr. Ming-Chung Chang at the [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/).
+My research focuses on **the social and relational drivers of human motivation within organizations**. In my current project, I study employee voice behavior: how affective and cognitive trust between colleagues lead people to publicly endorse a coworker's suggestions. I use survey designs and quantitative modeling to examine these questions.
 
-## Research
+## Research Interests
 
-My current and recent work focuses on methods for learning and decision making from limited or distributed data, including:
-
-- reinforcement learning;
-- Bayesian optimization and bandit algorithms;
-- collaborative learning;
-- applied experimental design.
+- Organizational and industrial psychology
+- Employee voice and workplace relationships
+- Trust, social exchange, and motivation at work
+- Quantitative research methods and survey research
 
 [Read more about my research](/research/).
 
-## Teaching and Service
+## Education
 
-- **Teaching Assistant, Learning Agents (Master level)**, Imperial College London, Fall 2025 and Fall 2026.
-- **Teaching Assistant, Calculus I and II**, National Tsing Hua University, 2022--2023.
-- **Conference Reviewer:** AISTATS 2026 (3 papers), UAI 2026 (6 papers), and NeurIPS 2026 (3 papers).
+**B.A. in Sociology**, National Taiwan University, 2022–2026
+- GPA: 4.09/4.3
+- Presidential Award (Nov 2023); Dean's List Award (Oct 2023)
+- Specialization Programs: Industrial and Commercial Psychology; Quantitative Research Methods
 
 ## News
-- **10/2026:** I will give a talk at [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/).
-- **09/2026 - 10/2026:** I will be a visiting scholar at [Institute of Statistical Science, Academia Sinica](https://www.stat.sinica.edu.tw/eng/).
-- **06/2026:** I will present a poster at [the Advances in Adaptive Experimentation Workshop](https://aae-workshop.github.io/) at UCL.
-- **05/2026:** The paper **Bootstrap Aggregation for Regression Problems via Generalized Least Squares** is accepted by Statistics and Computing.
-- **09/2025:** Joined the Department of Mathematics at Imperial College London as a PhD student.
-- **12/2024:** Graduated from the University of Michigan with an MSc in Applied Statistics.
+
+- **09/2026:** Started as an intern at Children's Smile and Inspiration Taiwan.
+- **2026:** Presented my research on trust and public voice support at the 2026 Taiwan Association of Industrial and Organizational Psychology Annual Conference and International Symposium.
+- **06/2026:** Graduated from National Taiwan University with a B.A. in Sociology.
+- **04/2026:** Joined Prof. Kuo-Hsien Su's group at NTU as a research assistant.
 
 ## Contact
 
-Email: [c.chang25@imperial.ac.uk](mailto:c.chang25@imperial.ac.uk)
-
-Last updated: May 2026.
+Email: [hsutsenyen@gmail.com](mailto:hsutsenyen@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hsutsen-yen)

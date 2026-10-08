@@ -9,9 +9,5 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
-    url: /files/Resume_Chih_Yu_Chang.pdf
-    
+    url: /cv/
